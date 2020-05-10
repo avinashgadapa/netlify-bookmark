@@ -1,2 +1,2 @@
-# netlify-bookmark
-Bookmarks
+# netlify-favorite
+Favorites
